@@ -1,0 +1,7 @@
+D:\PROYECTOS PERSONALES\CleanPrinter\pryCleanPrinter\pryCleanPrinter\obj\Debug\pryCleanPrinter.csprojAssemblyReference.cache
+D:\PROYECTOS PERSONALES\CleanPrinter\pryCleanPrinter\pryCleanPrinter\obj\Debug\pryCleanPrinter.csproj.CoreCompileInputs.cache
+D:\PROYECTOS PERSONALES\CleanPrinter\pryCleanPrinter\pryCleanPrinter\bin\Debug\Clean Printers.exe.config
+D:\PROYECTOS PERSONALES\CleanPrinter\pryCleanPrinter\pryCleanPrinter\bin\Debug\Clean Printers.exe
+D:\PROYECTOS PERSONALES\CleanPrinter\pryCleanPrinter\pryCleanPrinter\bin\Debug\Clean Printers.pdb
+D:\PROYECTOS PERSONALES\CleanPrinter\pryCleanPrinter\pryCleanPrinter\obj\Debug\Clean Printers.exe
+D:\PROYECTOS PERSONALES\CleanPrinter\pryCleanPrinter\pryCleanPrinter\obj\Debug\Clean Printers.pdb
