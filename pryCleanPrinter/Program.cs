@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
 using System.IO;
 
 namespace pryCleanPrinter
@@ -44,8 +42,8 @@ namespace pryCleanPrinter
 
             try
             {
-                List<string> strFiles = Directory.GetFiles(dir, "*", SearchOption.AllDirectories).ToList();
 
+                string[] strFiles = Directory.GetFiles(dir, "*", SearchOption.AllDirectories);
                 foreach (string fichero in strFiles)
                 {
                     File.Delete(fichero);
